@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**0xGuilhermeFreitas/0xGuilhermeFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+┌──(kali@kali)-[~]
+└─$  whoami
+Guilherme Freitas. Estudante do 2º ano de Engenharia Informática no ISCTE (Lisboa).
+Foco: Offensive Security / Red Teaming.
 
-Here are some ideas to get you started:
+┌──(kali@kali)-[~]
+└─$  cat current_tasks.txt
+- Estudo diário (HackTheBox & TryHackMe).
+- CTF
+- Estudar mais um pouquinho ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──(kali@kali)-[~]
+└─$  cat my_cyber_path&goals.txt
+o
+|_____________________________________
+|       >  Cybersecurity 101 (TryHackMe)
+|
+|______________________________________
+|        > {  Jr Penetration Tester (TryHackMe) 
+|        |    Offensive Pentesting  (TryHackMe) 
+|        |    Web Application Pentesting (TryHackMe) } 
+|        \___________________________________ <  **i'm here**
+|
+|___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+|    >   Penetration Tester Path (HackTheBox)  {
+|         \
+|          |   >  Dante ProLab  (HackTheBox)
+|          |   >  Zephyr ProLab  (HackTheBox)
+|          \
+|          CPTS  Certification
+|
+|___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+|         >   OSCP Certification (OffSec)
+.
+.
+v
+```
